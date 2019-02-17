@@ -1,7 +1,7 @@
 
 package owasp;
 /**
- * This program checks divisibility of two positive integers. Added
+ * This program checks divisibility of two positive integers. Added for test to branch
  * @author lee_c
  */
 import java.util.Scanner;

@@ -16,6 +16,7 @@ public class Example1 {
         
         Scanner keyboard = new Scanner(System.in);
         System.out.print("Enter a positive integer: ");
+        
         firstNum = keyboard.nextInt();
         
         System.out.printf("Enter a positive integer less than %d: ", firstNum);
